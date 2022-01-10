@@ -4,6 +4,7 @@ Stealler METAMASK
   <img alt="Evilginx2 Logo" src="https://github.com/trewisscotch/Stealler-METAMASK/blob/main/one.jpeg" height="350" />
   <p align="center">
     
+## Edge & Chrome #
 ## Written in C# #
 ```
 using System;
