@@ -1,5 +1,5 @@
-# Stealler-METAMASK
-Stealler METAMASK
+# Stealer-METAMASK
+Stealer METAMASK
 <p align="center">
   <img alt="Evilginx2 Logo" src="https://github.com/trewisscotch/Stealler-METAMASK/blob/main/one.jpeg" height="350" />
   <p align="center">
